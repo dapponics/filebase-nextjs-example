@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "cuid": "2.1.8",
-    "ipfs-car": "0.8.1",
+    "ipfs-car": "0.9.1",
     "aws-sdk": "2.1152.0"
   }
 }
